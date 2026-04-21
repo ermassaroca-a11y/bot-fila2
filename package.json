@@ -1,0 +1,12 @@
+{
+  "name": "bot-fila2",
+  "version": "1.0.0",
+  "description": "Bot de fila",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
